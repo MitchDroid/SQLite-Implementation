@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tienda Virtual</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Consultar">Consultar</string>
+    <string name="Actualizar">Actualizar</string>
+    <string name="Borrar">Borrar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre_producto">Nombre producto</string>
+    <string name="consultar_producto">id del producto</string>
+    <string name="tipo_prodcuto">Tipo producto</string>
+    <string name="color">Color</string>
+    <string name="marca">Marca</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="guardar">Guardar en BD</string>
+    <string name="actualizarr">Actualizar</string>
+    <string name="borrar">Borrar</string>
+    <string name="buscar">Buscar</string>
+    <string name="titulo_alerta">Registro insertado correctamente!</string>
+    <string name="titulo_borrar_ok">Registro Borrado correctamente!</string>
+    <string name="titulo_alerta_actualizar">Esta seguro que desea actualizar el registro?</string>
+    <string name="titulo_alerta_borrar">Esta seguro que desea borrar el registro?</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="datos_insertados_ok">Aceptar</string>
+    <string name="title_activity_fragment_consultar">FragmentConsultar</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
